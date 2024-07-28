@@ -1,6 +1,6 @@
 # Build and Deploy an Amazing 3D Developer Portfolio in React with Three.js
 
-![3D Website](https://ibb.co/7jbx1VW)
+![3D Website]([url=https://ibb.co/7jbx1VW][img]https://i.ibb.co/JmCWs27/Screenshot-2024-07-28-144535.png[/img][/url])
 
 ### [🌟 Become a top 1% Next.js 14 developer in only one course](https://jsmastery.pro/next14)
 ### [🚀 Land your dream programming job in 6 months](https://jsmastery.pro/masterclass)
