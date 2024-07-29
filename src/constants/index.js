@@ -123,16 +123,7 @@ export const experiences = [
             "NONE.",
         ],
     },
-    {
-        title: "NONE",
-        company_name: "NONE",
-        icon: meta,
-        iconBg: "#a2d2ff",
-        date: "Jan 2023 - Present",
-        points: [
-            "NONE.",
-        ],
-    },
+    
 ];
 
 export const socialLinks = [
@@ -149,7 +140,7 @@ export const socialLinks = [
     {
         name: 'LinkedIn',
         iconUrl: linkedin,
-        link: 'https://www.linkedin.com/in/Mejriabed',
+        link: 'https://www.linkedin.com/in/mejri-abed/',
     }
 ];
 
@@ -157,43 +148,33 @@ export const projects = [
     {
         iconUrl: pricewise,
         theme: 'btn-back-red',
-        name: 'NONE',
-        description: 'NONE.',
-        link: 'https://github.com/adrianhajdin/pricewise',
+        name: 'Slide 3D',
+        description: 'only css code eazy to learn',
+        link: 'https://slider-3d-kappa.vercel.app/',
     },
     {
         iconUrl: threads,
         theme: 'btn-back-green',
-        name: 'NONE',
-        description: 'NONE.',
-        link: 'https://github.com/adrianhajdin/threads',
+        name: 'Rotate animation',
+        description: 'Animation for soda .',
+        link: 'https://3d-rotate.vercel.app/',
     },
+   
     {
         iconUrl: car,
-        theme: 'btn-back-blue',
-        name: 'NONE',
-        description: 'NONE.',
-        link: 'https://github.com/adrianhajdin/project_next13_car_showcase',
+        theme: 'btn-back-pink',
+        name: 'Car shop',
+        description: 'coming soon.',
+        link: '',
     },
     {
         iconUrl: snapgram,
         theme: 'btn-back-pink',
-        name: 'NONE',
-        description: 'NONE.',
-        link: 'https://github.com/adrianhajdin/social_media_app',
+        name: 'SAAS project',
+        description: 'coming soon.',
+        link: '',
     },
-    {
-        iconUrl: estate,
-        theme: 'btn-back-black',
-        name: 'NONE',
-        description: 'NONE.',
-        link: 'https://github.com/adrianhajdin/projects_realestate',
-    },
-    {
-        iconUrl: summiz,
-        theme: 'btn-back-yellow',
-        name: 'NONE',
-        description: 'NONE.',
-        link: 'https://github.com/adrianhajdin/project_ai_summarizer',
-    }
+
+
+    
 ];
