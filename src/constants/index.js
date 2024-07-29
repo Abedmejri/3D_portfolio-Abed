@@ -1,4 +1,4 @@
-import { meta, shopify, starbucks, tesla } from "../assets/images";
+import { meta, shopify, eco, ttanit } from "../assets/images";
 import {
     car,
     contact,
@@ -93,7 +93,7 @@ export const experiences = [
     {
         title: "Tech Support",
         company_name: "Minestry of economic",
-        icon: starbucks,
+        icon: eco,
         iconBg: "#accbe1",
         date: "jan 2020 - feb 2020",
         points: [
@@ -104,26 +104,16 @@ export const experiences = [
         ],
     },
     {
-        title: "NONE",
-        company_name: "NONE",
-        icon: tesla,
+        title:"Advanced training",
+        company_name: "Tanit Web",
+        icon: ttanit,
         iconBg: "#fbc3bc",
-        date: "Jan 2021 - Feb 2022",
+        date: "Jan 2024 - Feb 2024",
         points: [
-            "NONE.",
+            "Create Frontend website.",
         ],
     },
-    {
-        title: "NONE",
-        company_name: "NONE",
-        icon: shopify,
-        iconBg: "#b7e4c7",
-        date: "Jan 2022 - Jan 2023",
-        points: [
-            "NONE.",
-        ],
-    },
-    
+   
 ];
 
 export const socialLinks = [

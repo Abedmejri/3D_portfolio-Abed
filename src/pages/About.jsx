@@ -22,8 +22,7 @@ const About = () => {
 
       <div className='mt-5 flex flex-col gap-3 text-slate-500'>
         <p>
-          Full Stuck web developer based in Tunisia, specializing in technical
-          education through hands-on learning and building applications.
+          Full Stuck web developer based in Tunisia.
         </p>
       </div>
 
